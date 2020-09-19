@@ -1,2 +1,6 @@
-# Data-Science-Intro
-Assignments for the Data Science Introduction course 
+## Data-Science-Intro
+
+Jupyter Notebook files with solved DS exercises  
+
+## Autor
+>Luca Porto 
