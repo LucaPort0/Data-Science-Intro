@@ -2,7 +2,7 @@
 
 Jupyter Notebook files with solved DS exercises
 
-## Data Bases(still updating)
+## Used Data Bases(still updating)
 - Iris
 - Boston Housing 
 
