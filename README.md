@@ -10,5 +10,5 @@ The 'data' folder must be in the same directory as the .ipynb is
 - Iris
 - Boston Housing 
 
-## Autor
+## Author
 >Luca Porto 
