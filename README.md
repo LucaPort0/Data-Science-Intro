@@ -4,7 +4,7 @@ Jupyter Notebook files with Data Science exercises
 
 ## Data
 
-The 'data' folder must be in the same directory as the .ipynb is
+The 'data' folder must be in the same directory where .ipynb is
 
 ## Used Data Bases(still updating)
 - Iris
